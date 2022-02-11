@@ -1,4 +1,6 @@
-- 👋 Hi, I’m 張智強(LittleJohn) @littlejohn0323
+- 👋 Hi, I’m 張智強(LittleJohn) @littlejohn0323, you can call me John.
+- Tôi là Trơung Trí Cường
+-  
 - 👀 I’m interested in iOS,Android,C#,VB.Net,SQL Server, EverRun system...
 - 🌱 I’m currently learning about Vietnam...
 - 💞️ I’m looking to collaborate on Vietnam parking market.
